@@ -7,7 +7,7 @@
 Follow below commands.
 
 ```bash
-git clone https://github.com/Private-SO/analyze_re_solution.git projectfolder
+git clone https://github.com/Private-SO/Analyze_Re.git projectfolder
 cd project folder
 cat input.txt | python ./compute.py 100 500
 ```
