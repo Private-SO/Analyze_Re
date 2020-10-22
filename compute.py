@@ -38,7 +38,7 @@ class Compute:
 
     def processOutput(self):
         """
-        This loop iterates the inputs list and for each input_item it calls the prob_logic function and calculates the cumulative sum.
+        This function iterates through the inputs list and for each input_item it calls the prob_logic function and calculates the cumulative sum.
          :return: the list with all the output_amount values and their cumulative sum
         """
         self.__outputs = []
@@ -50,7 +50,7 @@ class Compute:
         return self.__outputs
 
     def tabularOutput(self):
-        # This loop writes tabular (single-column) output by iterating every item in outputs list.
+        # This function writes tabular (single-column) output by iterating every item in outputs list.
         for output_item in self.__outputs:
             print(output_item)
 
