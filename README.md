@@ -1,6 +1,6 @@
 # Analyze_re
 
-`compute.py` is a Python file which will take stdin and performs some operations on it using `threshold` and `limit` argument constraints and outputs in tabular format. `test.txt` is the sample input file. 
+`compute.py` is a Python file which will take stdin and performs some operations on it using `threshold` and `limit` argument constraints and outputs in tabular format. `input.txt` is the sample input file. 
 
 ## Execution Instructions
 
