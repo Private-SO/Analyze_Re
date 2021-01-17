@@ -4,7 +4,7 @@
 
 ## Execution Instructions
 
-Follow below commands.
+Follow below commands...
 
 ```bash
 git clone https://github.com/Private-SO/Analyze_Re.git projectfolder
